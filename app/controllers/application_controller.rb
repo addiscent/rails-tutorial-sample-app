@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def hello
-    render text: "Rex says, the Rails Tutorial will be here soon..."
+    render text: "Rex says, the Rails Tutorial Sample App will be developing here soon..."
   end
 end
