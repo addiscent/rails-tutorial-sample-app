@@ -3,3 +3,5 @@ bundle exec rake test
 bundle exec rake test:integration
 
 bundle exec rake db:migrate:reset
+
+bundle install # after revising Gemfile
