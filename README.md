@@ -8,7 +8,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 The tutorial web site is a work in progress.  It is unfinished
 at this time.  The current state of the web site can be seen at:
 
-  https://limitless-headland-4571.herokuapp.com/
+  https://salty-mesa-8376.herokuapp.com/
 
 The web site may need up to thirty seconds to be displayed,
 (if it hasn't been visited recently), as it is hosted on one
